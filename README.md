@@ -2,6 +2,12 @@
 
 **AI-Powered Semantic Shortlisting & Bias-Free Ranking Agent**
 
+**Project Demo:**
+
+To see **HireTrace AI** in action, including the Multi-Agent scoring logic and the Privacy Shield, watch the demo video below:
+
+**[Watch the HireTrace AI Demo Walkthrough](https://drive.google.com/drive/folders/1xatTqeQDC5cFt8krhRbPe1t-SzuA8unw?usp=sharing)**
+
 **HireTrace AI** is a specialized recruitment auditing platform designed to eliminate unconscious bias and manual inefficiency in technical hiring. Developed during the **AI Enablement Internship**, this tool leverages a multi-agent architecture to perform deep technical gap analysis while strictly adhering to enterprise-grade privacy standards.
 
 
