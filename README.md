@@ -1,6 +1,6 @@
 # HireTrace AI
 
-###AI-Powered Semantic Shortlisting & Bias-Free Ranking Agent
+**AI-Powered Semantic Shortlisting & Bias-Free Ranking Agent**
 
 **HireTrace AI** is a specialized recruitment auditing platform designed to eliminate unconscious bias and manual inefficiency in technical hiring. Developed during the **AI Enablement Internship**, this tool leverages a multi-agent architecture to perform deep technical gap analysis while strictly adhering to enterprise-grade privacy standards.
 
